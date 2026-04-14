@@ -1,0 +1,13 @@
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\Program(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\Program(C#).csproj.CoreCompileInputs.cache
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\Program(C#).sourcelink.json
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\bin\Debug\net10.0\Program(C#).exe
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\bin\Debug\net10.0\Program(C#).deps.json
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\bin\Debug\net10.0\Program(C#).runtimeconfig.json
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\bin\Debug\net10.0\Program(C#).dll
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\bin\Debug\net10.0\Program(C#).pdb
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\Program(C#).dll
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\refint\Program(C#).dll
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\Program(C#).pdb
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\Program(C#).genruntimeconfig.cache
+C:\Users\임규석\Desktop\Program(C#)\Program-c-\obj\Debug\net10.0\ref\Program(C#).dll
