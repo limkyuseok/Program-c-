@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\program-c-\\program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7224D238-0126-47B5-A588-FC5AFBE8FE82}|Class 1th (Garbage Collection)\\Class 1th (Garbage Collection).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\program-c-\\class 1th (garbage collection)\\source 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7224D238-0126-47B5-A588-FC5AFBE8FE82}|Class 1th (Garbage Collection)\\Class 1th (Garbage Collection).csproj|solutionrelative:class 1th (garbage collection)\\source 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\program-c-\\program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T12:46:32.885Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program(C#).csproj",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Program(C#).csproj",
               "RelativeDocumentMoniker": "Program(C#).csproj",
@@ -57,15 +57,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Source 1.cs",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Class 1th (Garbage Collection)\\Source 1.cs",
               "RelativeDocumentMoniker": "Class 1th (Garbage Collection)\\Source 1.cs",
               "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Class 1th (Garbage Collection)\\Source 1.cs",
               "RelativeToolTip": "Class 1th (Garbage Collection)\\Source 1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:41:14.873Z"
+              "WhenOpened": "2026-04-14T11:41:14.873Z",
+              "EditorCaption": ""
             }
           ]
         }
