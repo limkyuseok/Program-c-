@@ -7,13 +7,25 @@
       "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\program-c-\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\program-c-\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEA8177C-BDB9-463F-BE13-A9CCFFB7791D}|..\\Class 4th (Interface)\\Class 4th (Interface).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 4th (interface)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA8177C-BDB9-463F-BE13-A9CCFFB7791D}|..\\Class 4th (Interface)\\Class 4th (Interface).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 4th (interface)\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEA8177C-BDB9-463F-BE13-A9CCFFB7791D}|..\\Class 4th (Interface)\\Class 4th (Interface).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 4th (interface)\\iselectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA8177C-BDB9-463F-BE13-A9CCFFB7791D}|..\\Class 4th (Interface)\\Class 4th (Interface).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 4th (interface)\\iselectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\program-c-\\program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA8177C-BDB9-463F-BE13-A9CCFFB7791D}|..\\Class 4th (Interface)\\Class 4th (Interface).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 4th (interface)\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEA8177C-BDB9-463F-BE13-A9CCFFB7791D}|..\\Class 4th (Interface)\\Class 4th (Interface).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 4th (interface)\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -23,10 +35,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEA8177C-BDB9-463F-BE13-A9CCFFB7791D}|..\\Class 4th (Interface)\\Class 4th (Interface).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 4th (interface)\\activatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\program-c-\\program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB801458-5475-A8F3-6B72-42F18CFE2434}|Program(C#).csproj|solutionrelative:program(c#).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1C41054-7B26-48E3-831B-31CC73BC9F4A}|..\\Class 2th (Parameter Modifier)\\Class 2th (Parameter Modifier).csproj|c:\\users\\\uC784\uADDC\uC11D\\desktop\\program(c#)\\class 2th (parameter modifier)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -53,41 +61,45 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T12:46:32.885Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Obstacle.cs",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Obstacle.cs",
+              "RelativeToolTip": "Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:27:59.434Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Switch.cs",
-              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Switch.cs",
-              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Switch.cs",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Switch.cs",
-              "RelativeToolTip": "..\\Class 4th (Interface)\\Switch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Factory.cs",
+              "RelativeDocumentMoniker": "Factory.cs",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Factory.cs",
+              "RelativeToolTip": "Factory.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T12:31:11.055Z",
+              "WhenOpened": "2026-04-23T11:07:52.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ISelectable.cs",
-              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\ISelectable.cs",
-              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\ISelectable.cs",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\ISelectable.cs",
-              "RelativeToolTip": "..\\Class 4th (Interface)\\ISelectable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T12:31:06.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Frame.cs",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Frame.cs",
               "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Frame.cs",
@@ -95,12 +107,11 @@
               "RelativeToolTip": "..\\Class 4th (Interface)\\Frame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T12:31:02.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T12:31:02.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Program.cs",
@@ -113,37 +124,20 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISelectable.cs",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\ISelectable.cs",
+              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\ISelectable.cs",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\ISelectable.cs",
+              "RelativeToolTip": "..\\Class 4th (Interface)\\ISelectable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:31:06.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Clock.cs",
-              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Clock.cs",
-              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Clock.cs",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Clock.cs",
-              "RelativeToolTip": "..\\Class 4th (Interface)\\Clock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T12:30:58.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Activatable.cs",
-              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Activatable.cs",
-              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Activatable.cs",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Activatable.cs",
-              "RelativeToolTip": "..\\Class 4th (Interface)\\Activatable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T12:30:52.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program(C#).csproj",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Program(C#).csproj",
               "RelativeDocumentMoniker": "Program(C#).csproj",
@@ -156,7 +150,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Switch.cs",
+              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Switch.cs",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Switch.cs",
+              "RelativeToolTip": "..\\Class 4th (Interface)\\Switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:31:11.055Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Clock.cs",
+              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Clock.cs",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Clock.cs",
+              "RelativeToolTip": "..\\Class 4th (Interface)\\Clock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:30:58.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Activatable.cs",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Activatable.cs",
+              "RelativeDocumentMoniker": "..\\Class 4th (Interface)\\Activatable.cs",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 4th (Interface)\\Activatable.cs",
+              "RelativeToolTip": "..\\Class 4th (Interface)\\Activatable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:30:52.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Class 2th (Parameter Modifier)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class 2th (Parameter Modifier)\\Program.cs",
@@ -168,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Source 1.cs",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\Program(C#)\\Program-c-\\Class 1th (Garbage Collection)\\Source 1.cs",
               "RelativeDocumentMoniker": "Class 1th (Garbage Collection)\\Source 1.cs",
