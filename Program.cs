@@ -1,56 +1,32 @@
-﻿using System.Runtime.InteropServices;
+﻿using Program;
+using System.Reflection.Metadata;
+using System.Runtime.InteropServices;
 using System.Security.Cryptography.X509Certificates;
 namespace Program
 {
     internal class Program
     {
-        delegate float Opetation(float x, float y);
-
-        static float Add(float x, float y)
-        {
-            return x + y;
-        }
-
-        static float Substract(float x, float y)
-        {
-            return x - y;
-        }
-
-        static float Multiply(float x, float y)
-        {
-            return x * y;
-        }
-
-        static float Divide(float x, float y)
-        {
-            return x / y;
-        }
-
         static void Main(string[] args)
         {
-            #region 대리자
-            // 특정한 함수를 가진 함수를 참조할 수 있는 참조 타입입니다.
+            #region 개방 폐쇄 원칙
+            // 소프트웨어 개체는 확장에 대해 열려 있어야 하며,
+            // 수정에 대해서는 닫혀 있도록 설계되어야 하는 원칙입니다.
 
-            Opetation opetation;
+            Sensor sensor = new Sensor();
 
-            opetation = Add;
+            Bread bread = new Bread();
 
-            Console.WriteLine(opetation(5, 5));
+            Sealant sealant = new Sealant();
 
-            opetation = Substract;
+            Defective defective = new Defective();
 
-            Console.WriteLine(opetation(5, 5));
-
-            opetation = Multiply;
-
-            Console.WriteLine(opetation(5, 5));
-
-            opetation = Divide;
-
-            Console.WriteLine(opetation(5, 5));
+            sensor.Detect(bread);
+            sensor.Detect(sealant);
+            sensor.Detect(defective);
 
 
             #endregion
         }
+
     }
 }
